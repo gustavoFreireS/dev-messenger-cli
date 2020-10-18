@@ -1,0 +1,14 @@
+[package]
+name = "kleber-cli"
+version = "0.1.0"
+authors = ["Gustavo Freire Santos <gustavo.freire.s@outlook.com>"]
+edition = "2018"
+
+[dependencies]
+tui = "0.12"
+termion = "1.5"
+rand = "0.6.0"
+
+[[bin]]
+name = "kleber-cli"
+path = "main.rs"
