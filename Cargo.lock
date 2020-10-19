@@ -40,6 +40,7 @@ dependencies = [
  "rand",
  "termion",
  "tui",
+ "unicode-width",
 ]
 
 [[package]]
