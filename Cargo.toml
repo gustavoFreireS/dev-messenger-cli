@@ -8,6 +8,7 @@ edition = "2018"
 tui = "0.12"
 termion = "1.5"
 rand = "0.6.0"
+unicode-width = "0.1"
 
 [[bin]]
 name = "kleber-cli"
